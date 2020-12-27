@@ -1,0 +1,1 @@
+It is a simple text file part 2 for git practise.
